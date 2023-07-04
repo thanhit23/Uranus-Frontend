@@ -14,7 +14,7 @@
 ```
     git push origin <your-name>/<lesson-name>
 ```
-=> Create pull request on github to merge to <your-name>/main
+=> Create pull request on github to merge to ```<your-name>/main```
 - Setup deploy to Vercel
   - Create account on Vercel
   - Import project from github
