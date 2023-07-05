@@ -19,7 +19,6 @@
     "strict": true,
     "noEmit": false,
     "noFallthroughCasesInSwitch": true,
-    "types": ["node", "react/next", "react-dom/next"],
     "sourceMap": false,
     "typeRoots" : ["./types", "./node_modules/@types"]
   },
